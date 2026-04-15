@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2400&pause=800&color=FF3131&center=true&vCenter=true&width=980&lines=WELCOME+TO+X+CORE.;I'M+EXKENN.;BUILDING+DARK+SYSTEMS+AND+REAL+PROJECTS.;FLUTTER+%E2%80%A2+NODE.JS+%E2%80%A2+JAVASCRIPT.;DESIGN.+POWER.+PRECISION.+IDENTITY." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2400&pause=800&color=FF3131&center=true&vCenter=true&width=980&lines=WELCOME+TO+MY+GITHUB.;I'M+EXKENN.;BUILDING+DARK+SYSTEMS+AND+REAL+PROJECTS.;FLUTTER+%E2%80%A2+NODE.JS+%E2%80%A2+JAVASCRIPT.;DESIGN.+POWER.+PRECISION.+IDENTITY." />
 </h1>
 
 <p align="center">
@@ -86,75 +86,6 @@ stack:
   tools:
     - GitHub
     - VS Code
-```
-
-```ini
-[skillset]
-primary=Flutter
-secondary=Node.js
-logic=JavaScript
-layout=HTML/CSS
-workflow=GitHub
-editor=VS Code
-```
-
-```env
-PROFILE_NAME=EXKENN
-PROFILE_CODENAME=X_CORE
-PRIMARY_STACK=FLUTTER
-BACKEND_STACK=NODEJS
-MAIN_PROJECT=VOYRE
-THEME=DARK_RED_BLACK
-PROFILE_MODE=PREMIUM
-```
-
-```toml
-[developer]
-name = "Kenn"
-username = "exkenn"
-role = "Newbie Developer"
-
-[focus]
-main = ["Flutter", "Node.js", "JavaScript"]
-extra = ["HTML", "CSS", "UI experiments"]
-```
-
----
-
-## 👑 PREMIUM SIGNALS
-
-```powershell
-PS X:\core> whoami
-exkenn
-
-PS X:\core> get-role
-Newbie Developer
-
-PS X:\core> get-theme
-Dark Red / Black
-
-PS X:\core> get-focus
-Flutter, Node.js, JavaScript
-
-PS X:\core> get-mission
-Build projects with identity and presence
-```
-
-```sql
-SELECT username, role, project, status
-FROM developer_core
-WHERE username = 'exkenn';
-
--- exkenn | Newbie Developer | VOYRE | ACTIVE
-```
-
-```bash
-$ profile --inspect
-name: Kenn
-codename: X CORE
-vibe: cyber premium
-state: online
-mode: building
 ```
 
 ---
