@@ -1,10 +1,114 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050505,18:120000,38:3d0000,65:8f0000,100:ff2a2a&text=EXKENN&fontSize=78&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=X%20CORE%20%E2%80%A2%20ULTRA%20PREMIUM%20PROFILE%20%E2%80%A2%20FLUTTER%20%7C%20NODE.JS%20%7C%20JAVASCRIPT&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,20:160000,45:4d0000,70:910000,100:ff2424&text=EXKENN&fontSize=74&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=X%20CORE%20%E2%80%A2%20CYBER%20PROFILE&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2400&pause=800&color=FF3131&center=true&vCenter=true&width=980&lines=WELCOME+TO+X+CORE.;I'M+EXKENN.;BUILDING+DARK+SYSTEMS+AND+REAL+PROJECTS.;FLUTTER+%E2%80%A2+NODE.JS+%E2%80%A2+JAVASCRIPT.;DESIGN.+POWER.+PRECISION.+IDENTITY." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2600&pause=900&color=FF2E2E&center=true&vCenter=true&width=900&lines=I'M+EXKENN.;FLUTTER+%7C+NODE.JS+%7C+JAVASCRIPT.;BUILDING+REAL+PROJECTS." />
 </h1>
+
+<p align="center">
+  <a href="https://t.me/xkenv">
+    <img src="https://img.shields.io/badge/Telegram-@xkenv-ff2b2b?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚔️ IDENTITY
+
+```javascript
+const exkenn = {
+  name: "Kenn",
+  role: "Newbie Developer",
+  stack: ["Flutter", "Node.js", "JavaScript"],
+  project: "VOYRE",
+  mindset: "Build > Talk"
+};
+```
+
+---
+
+## 🧠 SYSTEM
+
+```bash
+$ boot profile
+[ OK ] X CORE loaded
+[ OK ] Developer mode active
+[ OK ] Ready
+```
+
+---
+
+## 🛠️ STACK
+
+```yaml
+mobile:
+  - Flutter
+
+backend:
+  - Node.js
+  - JavaScript
+
+frontend:
+  - HTML
+  - CSS
+```
+
+---
+
+## 📊 STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=exkenn&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=exkenn&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🧿 PROJECTS
+
+```js
+const projects = [
+  "VOYRE APP",
+  "VOYRE API",
+  "AUTOMATION TOOLS"
+];
+```
+
+---
+
+## ☠️ TERMINAL
+
+```bash
+whoami
+exkenn
+
+status
+BUILDING...
+```
+
+---
+
+## 🌌 MOTTO
+
+```txt
+Build quietly.
+Improve constantly.
+Let results speak.
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=exkenn&color=ff2b2b&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=ff2424" />
+</p></h1>
 
 <p align="center">
   <a href="https://t.me/xkenv">
