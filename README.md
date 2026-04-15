@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0f0f,25:1e3c72,50:2a5298,75:6a11cb,100:ff6a00&text=EXKENN&fontSize=78&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=CYBER%20PREMIUM%20PROFILE%20%E2%80%A2%20FLUTTER%20%7C%20NODE.JS%20%7C%20JS&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0f0f,30:141E30,60:243B55,100:0f2027&text=EXKENN&fontSize=82&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2400&pause=800&color=00F7FF&center=true&vCenter=true&width=980&lines=WELCOME+TO+MY+GITHUB.;I'M+KENN.;BUILDING+REAL+PROJECTS.;FLUTTER+%E2%80%A2+NODE.JS+%E2%80%A2+JAVASCRIPT.;CODE.+DESIGN.+INNOVATION." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&duration=2600&pause=900&color=38F2FF&center=true&vCenter=true&width=850&lines=Developer.;Flutter+%7C+Node.js+%7C+JavaScript.;Building+clean+and+real+projects." />
 </h1>
 
 <p align="center">
   <a href="https://t.me/xkenv">
-    <img src="https://img.shields.io/badge/TELEGRAM-@xkenv-00c3ff?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/TELEGRAM-@xkenv-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
