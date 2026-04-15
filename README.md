@@ -1,22 +1,127 @@
-<!-- ===================== X CORE PROFILE README ===================== --><h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=KENN;X+CORE+DEVELOPER;BUILDING+THE+FUTURE" />
-</h1><p align="center">
-  <img src="https://files.catbox.moe/your-banner.gif" width="100%" />
-</p>---
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:050505,20:170000,45:490000,70:9b0000,100:ff1e1e&text=KENN&fontSize=72&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=X%20CORE%20%20%E2%80%A2%20%20CYBER%20ARCHITECT%20%20%E2%80%A2%20%20FLUTTER%20%7C%20NODE.JS%20%7C%20JAVASCRIPT&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn"
+    width="100%"
+    alt="banner"
+  />
+</p>
 
-<h3 align="center">🚀 Newbie Developer | Building VOYRE Ecosystem</h3><p align="center">
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2600&pause=850&color=FF2E2E&center=true&vCenter=true&width=950&lines=WELCOME+TO+X+CORE.;I'M+KENN.;BUILDING+DARK+SYSTEMS+AND+REAL+PROJECTS.;FLUTTER+%E2%80%A2+NODE.JS+%E2%80%A2+JAVASCRIPT.;CODE.+DESIGN.+POWER.+PRECISION."
+    alt="typing intro"
+  />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE-X%20CORE%20EDITION-0b0b0b?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AESTHETIC-DARK%20RED%20%26%20BLACK-7a0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-b30000?style=for-the-badge" />
+</p>
+
+<p align="center">
   <a href="https://t.me/xkenv">
-    <img src="https://img.shields.io/badge/Telegram-Contact-red?style=for-the-badge&logo=telegram" />
+    <img src="https://img.shields.io/badge/TELEGRAM-@xkenv-ff2b2b?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</p>---
+</p>
 
-⚡ About Me
+---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3200&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=%3E+Initializing+X+CORE+profile...;%3E+Loading+systems...;%3E+Aesthetic%3A+Dark+Red+%2F+Cyber+Elite;%3E+Mission%3A+Build+projects+that+feel+alive." />
+</p>
+
+---
+
+## ⚔️ X CORE // IDENTITY
+
+```javascript
 const kenn = {
+  codename: "X CORE",
   name: "Kenn",
   role: "Newbie Developer",
-  focus: ["Mobile App", "Backend System", "Automation"],
-  currentProject: "VOYRE",
+  specialization: ["Flutter", "Node.js", "JavaScript", "HTML", "CSS"],
+  currentMission: "Building VOYRE ecosystem",
+  style: ["Cyber", "Dark Luxury", "Clean UI", "Futuristic"],
+  energy: "Quietly learning. Loudly building.",
+  motto: "I don't chase hype. I build sharp systems."
+};
+🧠 PROFILE DATA
+�
+
+🩸 About Me
+Developer with a dark futuristic taste
+Loves coding and building project systems
+Focused on mobile apps and backend flows
+Learns by shipping, upgrading, repeating
+Building with vision, not just noise
+�
+
+🚀 Current Direction
+Developing VOYRE App
+Improving backend architecture
+Exploring automation and realtime systems
+Designing cleaner and more elite UI
+Turning ideas into usable products
+�
+
+�
+
+🛠️ WEAPONS // TECH STACK
+�
+￼ 
+
+�
+￼ ￼ ￼ ￼ 
+
+👑 ELITE SIGNALS
+�
+￼ ￼ ￼ ￼ 
+
+📊 GITHUB ANALYTICS
+�
+￼ ￼ 
+
+�
+￼ 
+
+📈 ACTIVITY SYSTEM
+￼ 
+
+�
+🧿 FEATURED PROJECTS
+￼ ￼ ￼ 
+
+�
+Replace the links above with your real repositories to make this profile feel truly premium. 
+
+�
+🧬 PHILOSOPHY
+￼ 
+
+�
+“I build in silence, then let the results speak.” 
+
+�
+☠️ SYSTEM NOTICE
+Plain text
+[X CORE // STATUS]
+> Visual mode     : ACTIVE
+> Build mindset   : ONLINE
+> Learning curve  : SHARP
+> Project engine  : RUNNING
+> Chaos level     : CONTROLLED
+🌐 CONNECT
+�
+￼ 
+
+👁️ PROFILE VIEWS
+�
+￼ 
+
+�
+￼ 
+```  currentProject: "VOYRE",
   mindset: "Build. Break. Fix. Repeat."
 };
 
