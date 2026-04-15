@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glow&text=KennVyL&width=900&height=300&fontSize=80&color1=00F7FF&color2=7A00FF&color3=FF00AA&bgColor=0d1117" />
+<<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:0d1117,25:00F7FF,50:7A00FF,75:FF00AA,100:FFB347&text=KennVyL&fontSize=82&fontColor=ffffff&stroke=00F7FF&strokeWidth=1&animation=twinkling" width="100%" />
 </p>
 
 <h1 align="center">
