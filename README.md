@@ -1,25 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050505,18:120000,38:3d0000,65:8f0000,100:ff2a2a&text=EXKENN&fontSize=78&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=X%20CORE%20%E2%80%A2%20ULTRA%20PREMIUM%20PROFILE%20%E2%80%A2%20FLUTTER%20%7C%20NODE.JS%20%7C%20JAVASCRIPT&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0f0f,25:1e3c72,50:2a5298,75:6a11cb,100:ff6a00&text=EXKENN&fontSize=78&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=CYBER%20PREMIUM%20PROFILE%20%E2%80%A2%20FLUTTER%20%7C%20NODE.JS%20%7C%20JS&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2400&pause=800&color=FF3131&center=true&vCenter=true&width=980&lines=WELCOME+TO+MY+GITHUB.;I'M+EXKENN.;BUILDING+DARK+SYSTEMS+AND+REAL+PROJECTS.;FLUTTER+%E2%80%A2+NODE.JS+%E2%80%A2+JAVASCRIPT.;DESIGN.+POWER.+PRECISION.+IDENTITY." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2400&pause=800&color=00F7FF&center=true&vCenter=true&width=980&lines=WELCOME+TO+MY+GITHUB.;I'M+KENN.;BUILDING+REAL+PROJECTS.;FLUTTER+%E2%80%A2+NODE.JS+%E2%80%A2+JAVASCRIPT.;CODE.+DESIGN.+INNOVATION." />
 </h1>
 
 <p align="center">
   <a href="https://t.me/xkenv">
-    <img src="https://img.shields.io/badge/TELEGRAM-@xkenv-ff2b2b?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/TELEGRAM-@xkenv-00c3ff?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/X%20CORE-ULTRA%20PREMIUM-0f0f0f?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-b30000?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AESTHETIC-DARK%20RED%20%26%20BLACK-7a0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/VIBE-CYBER%20LUXURY-7a0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/FOCUS-REAL%20PROJECTS-7a0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/MODE-BUILDING-7a0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/EDITION-X%20CORE-7a0000?style=flat-square" />
 </p>
 
 ---
