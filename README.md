@@ -31,7 +31,6 @@ class DeveloperProfile:
         return "Learning, building, refining"
 ```
 
-```
 <p align="center">
   <img src="https://img.shields.io/badge/ROLE-Newbie%20Developer-121212?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MAIN%20PROJECT-VOYRE-8b0000?style=for-the-badge" />
