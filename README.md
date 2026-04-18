@@ -20,9 +20,8 @@
 class DeveloperProfile:
     def __init__(self):
         self.name = "Kenn"
-        self.username = "exkenn"
         self.role = "Newbie Developer"
-        self.project = "VOYRE"
+        self.project = "ONYX"
         self.stack = ["Flutter", "Node.js", "JavaScript", "HTML", "CSS"]
 
     def motto(self):
@@ -32,23 +31,7 @@ class DeveloperProfile:
         return "Learning, building, refining"
 ```
 
-```dart
-class XCoreProfile {
-  final String name = "Kenn";
-  final String username = "exkenn";
-  final String role = "Newbie Developer";
-
-  final List<String> hobbies = [
-    "Coding",
-    "Building projects",
-    "Designing futuristic UI",
-    "Experimenting with systems",
-  ];
-
-  String get direction => "Turn ideas into real products";
-}
 ```
-
 <p align="center">
   <img src="https://img.shields.io/badge/ROLE-Newbie%20Developer-121212?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MAIN%20PROJECT-VOYRE-8b0000?style=for-the-badge" />
