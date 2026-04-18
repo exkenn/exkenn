@@ -20,9 +20,10 @@
 class DeveloperProfile:
     def __init__(self):
         self.name = "Kenn"
+        self.age = "18"
+        self.region = "Indonesia"
         self.role = "Newbie Developer"
         self.project = "ONYX"
-        self.stack = ["Flutter", "Node.js", "JavaScript", "HTML", "CSS"]
 
     def motto(self):
         return "Build > Talk"
